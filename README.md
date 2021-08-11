@@ -4,11 +4,11 @@ I have created **Machine Learning Model With Linear Regression** for **Stock Pri
 
 In this I've used Python’s Famous libraries like [Plotly](), [Pandas](), [Seaborn](), [Matplotlib](), [Scipy](), and [Sklearn]() for **Data analysis and Model Development.**
 
-I've created [Linear Regression Model]() and performed it onto different companies stock price data.
+I've created [Linear Regression Model](https://www.geeksforgeeks.org/ml-linear-regression/) and performed it onto different companies stock price data.
 
-I've used [Jupyter Notebook]() for coding!
+I've used [Jupyter Notebook](https://jupyter.org/) for coding!
 
-I obtained the Dataset from [Kaggle]().
+I obtained the Dataset from [Kaggle](https://www.kaggle.com/sugandhkhobragade/bse30-daily-market-price-20082018).
 
 # Stock Price Prediction
 
